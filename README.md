@@ -1,1 +1,2 @@
 # customtkinter-adbtool
+基于customtkinter的带有gui的adb调试工具
