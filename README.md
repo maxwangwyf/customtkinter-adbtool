@@ -1,4 +1,5 @@
 # customtkinter-adbtool
 基于customtkinter的带有gui的adb调试工具
-![image](https://github.com/user-attachments/assets/0e013288-8d42-4595-a5c2-39ab01826e7d)
+![GIF 2024-8-2-周五 17-21-51](https://github.com/user-attachments/assets/c4beb066-463e-488f-a471-462f48189ac9)
+
 界面大概就是这样，功能挺多
